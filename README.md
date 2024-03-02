@@ -1,5 +1,3 @@
-[![Kim Kangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarkdals1202&theme=dark&show_icons=true)](https://github.com/rlarkdals1202)
-
 ## 🧑🏻‍💻 Skills
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=%23000) &nbsp; ![Static Badge](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white) 
