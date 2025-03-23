@@ -8,7 +8,7 @@
 <div align="center">
   <h2>📚 Tech Stack 📚</h3>
   
-  [![My Tech Stacks](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,tailwind)](https://skillicons.dev)
+  [![My Tech Stacks](https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind)](https://skillicons.dev)
 </div>
 
 <br/>
@@ -17,6 +17,6 @@
   
 <div align="center">
     
-  [![My Tech Stacks](https://skillicons.dev/icons?i=git,github,webstorm,pnpm)](https://skillicons.dev)
+  [![My Tech Stacks](https://skillicons.dev/icons?i=git,github,pnpm)](https://skillicons.dev)
   
 </div>
