@@ -1,6 +1,8 @@
 <div align="center">
   
-  [![Kim Kangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarkdals1202&theme=dracula&show_icons=true)](https://github.com/rlarkdals1202)
+  [![Kim Kangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlarkdals1202&show_icons=true)](https://github.com/rlarkdals1202)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlarkdals1202&layout=compact)
 </div>
 
 
