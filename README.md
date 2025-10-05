@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">안녕하세요. 개발자 김강민입니다<br/></p>
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=twelvetwo)](https://solved.ac/twelvetwo)
 
 ###
 
