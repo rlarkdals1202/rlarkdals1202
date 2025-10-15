@@ -2,10 +2,6 @@
 
 ###
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=twelvetwo)](https://solved.ac/twelvetwo)
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
@@ -28,7 +24,7 @@
   <br/>
   <h3>Current Learning</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,mysql,aws,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=nest,mysql,aws,docker)](https://skillicons.dev)
 </div>
 
 ###
