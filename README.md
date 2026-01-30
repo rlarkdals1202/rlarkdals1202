@@ -21,10 +21,13 @@
   
   <br/>
   <h3>Back</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+  
   <br/>
   <h3>Current Learning</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=nest,mysql,aws,docker)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=kotlin,mysql,aws,docker)](https://skillicons.dev)
 </div>
 
 ###
